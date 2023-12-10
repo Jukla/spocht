@@ -1,0 +1,54 @@
+table_of_trainings_range: 4
+table_of_trainings_columns: 3
+
+exercises_of_training:
+  pull_1:
+    - 3x  6 Klimmzüge Obergriff breit
+    - 3x  6 Kreuzheben
+    - 3x  6 KH-Rudern
+    - 3x  6 Schulterheben
+    - 1x mx Hammercurls
+    - 1x mx Unterarm-Curls
+  pull_2:
+    - 3x  6 Klimmzüge Untergriff eng
+    - 3x  6 Kreuzheben
+    - 3x  6 Hängendes Rudern
+    - 3x  6 Schulterheben
+    - 1x mx KH-Curls
+    - 1x mx Unterarm-Curls
+  push_1:
+    - 3x  6 Bankdrücken
+    - 3x  6 Dips
+    - 3x 12 negatives Schulterheben
+    - 3x  6 Frontheben
+    - 1x mx Schädelzertrümmerer
+  push_2:
+    - 3x  6 Liegestütze
+    - 3x  6 Dips
+    - 3x 12 negatives Schulterheben
+    - 3x  6 Seitenheben
+    - 1x mx Schädelzertrümmerer
+  push_extra_1:
+    - 3x 20 Kniebeuge
+    - 3x 12 Wadenstrecker
+    - 3x 12 Bauchpressen
+  push_extra_2:
+    - 3x 20 Kniebeuge
+    - 3x 12 Wadenstrecker
+    - 3x mx Plankieren
+  free:
+    - '-'
+
+training_of_day:
+  1:  pull_1
+  2:  push_extra_1
+  3:  free
+  4:  push_1
+  5:  free
+  6:  free
+  7:  pull_2
+  8:  push_extra_2
+  9:  free
+  10: push_2
+  11: free
+  12: free
